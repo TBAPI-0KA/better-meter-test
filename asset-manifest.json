@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.2815c149.chunk.css",
-    "main.js": "/static/js/main.e53dafec.chunk.js",
-    "main.js.map": "/static/js/main.e53dafec.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.422b6bb5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.422b6bb5.js.map",
-    "static/js/2.c05427ff.chunk.js": "/static/js/2.c05427ff.chunk.js",
-    "static/js/2.c05427ff.chunk.js.map": "/static/js/2.c05427ff.chunk.js.map",
-    "static/js/3.83b7fc4c.chunk.js": "/static/js/3.83b7fc4c.chunk.js",
-    "static/js/3.83b7fc4c.chunk.js.map": "/static/js/3.83b7fc4c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2815c149.chunk.css.map": "/static/css/main.2815c149.chunk.css.map",
-    "static/js/2.c05427ff.chunk.js.LICENSE.txt": "/static/js/2.c05427ff.chunk.js.LICENSE.txt",
-    "static/media/main-layout.css": "/static/media/search.f01194c5.svg",
-    "static/media/menu-view.css": "/static/media/dashboard.2dcd364b.svg",
-    "static/media/dashboard-view.css": "/static/media/graph.f50a3c8f.svg"
+    "main.css": "/better-meter-test/static/css/main.4699b87f.chunk.css",
+    "main.js": "/better-meter-test/static/js/main.e53dafec.chunk.js",
+    "main.js.map": "/better-meter-test/static/js/main.e53dafec.chunk.js.map",
+    "runtime-main.js": "/better-meter-test/static/js/runtime-main.671cb087.js",
+    "runtime-main.js.map": "/better-meter-test/static/js/runtime-main.671cb087.js.map",
+    "static/js/2.c05427ff.chunk.js": "/better-meter-test/static/js/2.c05427ff.chunk.js",
+    "static/js/2.c05427ff.chunk.js.map": "/better-meter-test/static/js/2.c05427ff.chunk.js.map",
+    "static/js/3.83b7fc4c.chunk.js": "/better-meter-test/static/js/3.83b7fc4c.chunk.js",
+    "static/js/3.83b7fc4c.chunk.js.map": "/better-meter-test/static/js/3.83b7fc4c.chunk.js.map",
+    "index.html": "/better-meter-test/index.html",
+    "static/css/main.4699b87f.chunk.css.map": "/better-meter-test/static/css/main.4699b87f.chunk.css.map",
+    "static/js/2.c05427ff.chunk.js.LICENSE.txt": "/better-meter-test/static/js/2.c05427ff.chunk.js.LICENSE.txt",
+    "static/media/main-layout.css": "/better-meter-test/static/media/search.b489d772.svg",
+    "static/media/menu-view.css": "/better-meter-test/static/media/dashboard.fd4de4b8.svg",
+    "static/media/dashboard-view.css": "/better-meter-test/static/media/graph.58bb7c49.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.422b6bb5.js",
+    "static/js/runtime-main.671cb087.js",
     "static/js/2.c05427ff.chunk.js",
-    "static/css/main.2815c149.chunk.css",
+    "static/css/main.4699b87f.chunk.css",
     "static/js/main.e53dafec.chunk.js"
   ]
 }
